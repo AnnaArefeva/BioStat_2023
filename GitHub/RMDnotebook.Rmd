@@ -41,3 +41,7 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 ```{r}
 x <- c(1, 5, 10)
 ```
+В этот раз добавлю строчку для расчета среднего
+```{r}
+mean(x)
+```
